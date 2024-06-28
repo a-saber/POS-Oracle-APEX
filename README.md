@@ -13,21 +13,32 @@ Point of sale system using Oracle APEX with enabling multiple organizations and 
 [Owner Link](https://apex.oracle.com/pls/apex/r/ahmedsaberworkspace/pos-owner/login)
 
 2. **Use this credential:**
-username: ahmed saber
-password 123456
+username:
+```bash
+    ahmed saber
+``` 
+password:
+```bash
+    123456
+``` 
 
-3. **Check clients data & thier history**
+4. **Check clients data & thier history**
 
-4. **Create new client**
+5. **Create new client**
    
 ## As Client
 1. **Login to the owner account:**
 [Client Link](https://apex.oracle.com/pls/apex/r/ahmedsaberworkspace/pos-client/login)
 
 2. **Use this credential:**
-username: wael
-password 123456
-
+username:
+```bash
+    wael
+``` 
+password:
+```bash
+    123456
+``` 
 3. **Check categories and products**
 
 4. **Create new products**
